@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map for SoftwareSerial
+# (esp8266)
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SoftwareUART	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+baudRate	KEYWORD2
+overflow	KEYWORD2
+peek	KEYWORD2
+write	KEYWORD2
+read	KEYWORD2
+available	KEYWORD2
+flush	KEYWORD2
+listen	KEYWORD2
+end	KEYWORD2
+isListening	KEYWORD2
+stopListening	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
