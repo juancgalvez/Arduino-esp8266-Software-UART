@@ -1,5 +1,5 @@
 # Arduino-esp8266-Software-UART
-This a wrapper to be able to use pleningerweb's esp8266-software-uart with Arduino.
+This a collections of wrapper functions to be able to use pleningerweb's esp8266-software-uart with Arduino.
 
 Currently doesn't support inverted serial data logic.
 
