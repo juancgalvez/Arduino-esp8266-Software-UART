@@ -9,4 +9,4 @@ I have noticed some time delays between 2 and 12 microseconds before receive int
 
 I did some modifications to pleningerweb´s implementation. Instead of using micosecond delays I use the system counter which has 80 Mhz or 160Mhz period depending on CPU clock settings. With this, there is a better granularity and a better timing control.
 
-I did transmition tests at 230400 bps and worked. I tested reception at 11520 bps. I guess it could work at higher speeds but have not tested.
+I did transmition tests at 230400 bps and worked. I tested reception at 115200 bps. I guess it could work at higher speeds but have not tested.
