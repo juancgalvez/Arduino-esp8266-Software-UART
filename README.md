@@ -1,4 +1,6 @@
 # Arduino-Esp8266-Software-UART
+I GUESS THIS CODES IS NOT NECCESARY ANY MORE. Software Serial for ESP8266 Arduino is working really good now.
+
 This a collections of wrapper functions to be able to use [pleningerweb's esp8266-software-uart](https://github.com/plieningerweb/esp8266-software-uart) with Arduino.
 
 Currently doesn't support inverted serial data logic.
